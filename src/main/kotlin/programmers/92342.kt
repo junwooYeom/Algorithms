@@ -1,7 +1,7 @@
 package programmers
 
 /**
- * [링크] https://school.programmers.co.kr/learn/courses/30/lessons/92342
+ * [92342] https://school.programmers.co.kr/learn/courses/30/lessons/92342
  */
 class `92342` {
     private val combinationList: MutableList<List<Int>> = mutableListOf()
