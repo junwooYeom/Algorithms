@@ -3,6 +3,9 @@ import java.util.Queue
 import java.util.StringTokenizer
 import kotlin.math.abs
 
+/**
+ * https://www.acmicpc.net/submit/16234
+ */
 private var n = 0
 private var l = 0
 private var r = 0
